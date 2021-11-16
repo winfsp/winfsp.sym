@@ -1,0 +1,3 @@
+[submodule "tools"]
+	path = tools
+	url = https://github.com/billziss-gh/symsrv.git
