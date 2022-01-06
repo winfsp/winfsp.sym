@@ -1,2 +1,3 @@
 0000000001,add,file,11/26/2021,13:20:57,"https://github.com/billziss-gh/winfsp.git","8ba8d31e50c790cb79acc62f0b55f9742ed3400c","",
 0000000002,add,file,12/20/2021,15:46:29,"https://github.com/billziss-gh/winfsp.git","551ed341a7c0d3fc9c5c92645c7b1db7c1110030","",
+0000000003,add,file,01/06/2022,16:02:55,"https://github.com/billziss-gh/winfsp.git","2fb2de067cee9eeacce55f4503f6c3afb3163a0f","",
