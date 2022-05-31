@@ -7,14 +7,14 @@ This is the repository of the WinFsp symbol and source server for use with the D
 Use the following symbol and source paths to access the symbols:
 
 ```
-sympath: https://github.com/billziss-gh/winfsp.sym/raw/master/sym
+sympath: https://github.com/winfsp/winfsp.sym/raw/master/sym
 srcpath: srv*
 ```
 
 For example in WinDbg:
 
 ```
-.sympath+ https://github.com/billziss-gh/winfsp.sym/raw/master/sym
+.sympath+ https://github.com/winfsp/winfsp.sym/raw/master/sym
 .srcfix
 ```
 
