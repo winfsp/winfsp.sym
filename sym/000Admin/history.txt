@@ -5,3 +5,4 @@
 0000000005,add,file,04/13/2022,18:48:16,"https://github.com/winfsp/winfsp.git","4b65871747f05d3deafc6f5ff445ec99dd0f0bfc","",
 0000000006,add,file,05/31/2022,13:49:48,"https://github.com/winfsp/winfsp.git","09ab9de32cc46525cbf9e549b74d8dc6276536ea","",
 0000000007,add,file,06/14/2022,15:57:58,"https://github.com/winfsp/winfsp.git","0083a45e315bc96942be56d18c05ce52a40a9921","",
+0000000008,add,file,06/25/2022,10:11:39,"https://github.com/winfsp/winfsp.git","5251dcbce93a334cc2b69565eb43de42eeaa2a64","",
