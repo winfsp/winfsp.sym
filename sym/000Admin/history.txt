@@ -13,3 +13,4 @@
 0000000013,add,file,02/02/2023,11:17:45,"https://github.com/winfsp/winfsp.git","52e6aa97b5c1587a2406bf758864b2931d1cbfeb","",
 0000000014,add,file,02/24/2023,19:35:54,"https://github.com/winfsp/winfsp.git","db319bc3c1978e072e4e9ba02b3d43ae36e54ab9","",
 0000000015,add,file,03/16/2023,11:26:09,"https://github.com/winfsp/winfsp.git","5c03dd11ee92bf834ce378c78c0e191e83096298","",
+0000000016,add,file,02/20/2024,12:45:42,"https://github.com/winfsp/winfsp.git","9a6571809eef357a3a61316dacfc709fbd339aed","",
