@@ -18,3 +18,4 @@
 0000000018,add,file,06/05/2025,16:28:58,"https://github.com/winfsp/winfsp.git","ddca7bd5481857a65ba552f643b8776fd070836f","",
 0000000019,add,file,04/22/2026,18:56:34,"https://github.com/winfsp/winfsp","0a89d2ecafd5fcdf85e6e754d8b33a9f64fce7a6","",
 0000000020,add,file,07/02/2026,13:34:10,"https://github.com/winfsp/winfsp","e7c7ccc5c45dc19fbf9f4499ef8104bde89fa488","",
+0000000021,add,file,07/13/2026,13:23:16,"https://github.com/winfsp/winfsp","e3ecc89bb7c1356f9b08e55744bec875a1895306","",
